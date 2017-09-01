@@ -1,0 +1,24 @@
+{
+  "name": "ukagaka_procon",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src/main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/base64g/ukagaka_procon.git"
+  },
+  "keywords": [],
+  "author": "base64",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/base64g/ukagaka_procon/issues"
+  },
+  "homepage": "https://github.com/base64g/ukagaka_procon#readme",
+  "dependencies": {
+    "cheerio-httpcli": "^0.7.0",
+    "request": "^2.81.0"
+  }
+}
